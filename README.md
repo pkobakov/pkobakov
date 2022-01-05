@@ -1,4 +1,4 @@
-## My Name is Petar Kobakov :blush: 
+## I'm glad to see you here ❤️
 
 
 - :microscope: I'm currently studying .NET at SoftUni
