@@ -1,4 +1,4 @@
-## I'm glad to see you here 🤝
+## I'm glad to see you here :wave:
 
 
 - :microscope: I'm currently studying .NET at SoftUni
