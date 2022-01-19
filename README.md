@@ -1,4 +1,5 @@
-## I'm glad to see you here :wave:
+## I'm glad to see you here :wave: 
+![My profile visits count](https://komarev.com/ghpvc/?username=pkobakov&color=brightgreen)
 
 
 - :microscope: I'm currently studying .NET at SoftUni
@@ -8,4 +9,4 @@
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=pkobakov&show_icons=true&theme=radical)
 
-![My profile visits count](https://komarev.com/ghpvc/?username=pkobakov&color=brightgreen)
+
