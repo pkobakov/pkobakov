@@ -1,5 +1,5 @@
 ## I'm glad to see you here :wave: 
-![My profile visits count](https://komarev.com/ghpvc/?username=pkobakov&color=blue)
+
 
 
 - :microscope: I'm currently studying .NET at SoftUni
@@ -7,6 +7,9 @@
 - :e-mail: You can contact me at: pkobakov@gmail.com
 - 🌐 You can reach me at: [Facebook](https://www.facebook.com/petar.kobakov.5)
 
+![My profile visits count](https://komarev.com/ghpvc/?username=pkobakov&color=blue)
+
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=pkobakov&show_icons=true&theme=prussian)
+![My GIF](https://foodaddiction.com/wp-content/uploads/2021/03/animated-presentation-software-header.gif)
 
 
