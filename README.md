@@ -10,6 +10,6 @@
 ![My profile visits count](https://komarev.com/ghpvc/?username=pkobakov&color=blue)
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=pkobakov&show_icons=true&theme=prussian)
-![My GIF](https://c.tenor.com/zWLzYDsUprAAAAAC/anime-boy.gif)
+![My GIF](https://stormotion.io/blog/content/images/2018/12/developer.gif)
 
 
