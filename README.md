@@ -10,6 +10,6 @@
 ![My profile visits count](https://komarev.com/ghpvc/?username=pkobakov&color=blue)
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=pkobakov&show_icons=true&theme=prussian)
-![My GIF](https://foodaddiction.com/wp-content/uploads/2021/03/animated-presentation-software-header.gif)
+![My GIF](https://c.tenor.com/zWLzYDsUprAAAAAC/anime-boy.gif)
 
 
