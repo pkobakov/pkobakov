@@ -1,6 +1,6 @@
 ## I'm glad to see you here :wave: 
 
-<table style="border:none;">
+<table>
  <tr>
     <td><b style="font-size:30px; width: 50%;">ℹ️ Contact&Info</b></td>
     <td><b style="font-size:30px; width: 50%;">🎓 Certificates:</b></td>
