@@ -23,7 +23,7 @@
   </tr>
  <tr>
    <td></td>
-   <td> <td><a href="https://softuni.bg/certificates/details/102698/a23a76bb">✔️ Entity Framework Core</a></td></td>
+   <td><a href="https://softuni.bg/certificates/details/102698/a23a76bb">✔️ Entity Framework Core</a></td></td>
  </tr>
   <tr>
     <td></td>
