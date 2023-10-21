@@ -17,16 +17,17 @@
    <td>:e-mail: You can contact me at: pkobakov@gmail.com</td>
   <td><a href="https://softuni.bg/certificates/details/173495/910d5e81">✔️ C# Advanced</td>
   </tr>
-   <tr>
-    <td><a href="https://softuni.bg/certificates/details/181049/f89b09d9">✔️ OOP</a>a</td>
-   </tr>
   <tr>
     <td>🌐 You can reach me at: <a href="https://www.facebook.com/petar.kobakov.5">Facebook</a></td>
-    <td><a href="https://softuni.bg/certificates/details/158016/19683375">✔️ MSSQL</a></td
+   <td><a href="https://softuni.bg/certificates/details/181049/f89b09d9">✔️ OOP</a></td>
   </tr>
  <tr>
    <td></td>
-   <td><a href="https://softuni.bg/certificates/details/102698/a23a76bb">✔️ Entity Framework Core</a></td></td>
+   <td><a href="https://softuni.bg/certificates/details/102698/a23a76bb">✔️ Entity Framework Core</a></td>
+ </tr>
+   <tr>
+    <td></td>
+     <td><a href="https://softuni.bg/certificates/details/158016/19683375">✔️ MSSQL</a></td>
  </tr>
   <tr>
     <td></td>
