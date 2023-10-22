@@ -33,6 +33,10 @@
     <td></td>
     <td><a href="https://softuni.bg/certificates/details/127639/f373ece8">✔️ HTML&CSS</a></td>
   </tr>
+     <tr>
+    <td></td>
+    <td><a href="https://softuni.bg/certificates/details/188179/1f2cef3e">✔️ JS Advanced</a></td>
+  </tr>
 </table>
 
 ![My profile visits count](https://komarev.com/ghpvc/?username=pkobakov&color=blue)
