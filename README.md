@@ -33,9 +33,13 @@
     <td></td>
     <td><a href="https://softuni.bg/certificates/details/127639/f373ece8">✔️ HTML&CSS</a></td>
   </tr>
-     <tr>
+  <tr>
     <td></td>
     <td><a href="https://softuni.bg/certificates/details/188179/1f2cef3e">✔️ JS Advanced</a></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td><a href="https://softuni.bg/certificates/details/195362/b40ee999">✔️ JS Applications</a></td>
   </tr>
 </table>
 
